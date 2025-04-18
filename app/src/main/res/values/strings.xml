@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="lemon_tree">Lemon tree</string>
+    <string name="lemon">Lemon</string>
+    <string name="glass_of_lemonade">Glass of lemonade</string>
+    <string name="empty_glass">Empty glass</string>
+</resources>
